@@ -28,8 +28,6 @@ var userFormEl = document.querySelector("#user-form");
 var nameInputEl = document.querySelector("#username");
 // var nameInputEl = document.getElementById("username")
 
-
-
 var formSubmitHandler = function(event){
     event.preventDefault();
     // get value from input element
